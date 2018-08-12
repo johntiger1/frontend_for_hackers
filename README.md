@@ -9,3 +9,9 @@ browse html5up
 Also, there is a "devil in the details": if the photo is *just* not right, or the placement is *just* off, it looks terrible. The cost function is highly discontinuous, which in my opinion is less so often in backend development. To make concrete: with backend stuff, you'll generally have a target, and stuff you write will generally begin to approach that target. There are less surprisals. With frontend stuff, there is a nebulous idea of "make it look attractive and appealing", which is hard to a) reach/understand and b) not quite apparent how moving an element by one pixel will affect the loss function. 
 
 Further: an entire class of frontend sites can generally be decomposed into single page, "bootstrap" esque things. But the execution of such a site REALLY matters! 
+
+This is a decent site:
+https://medium.freecodecamp.org/how-to-build-a-react-and-gatsby-powered-blog-in-about-10-minutes-625c35c06481
+(and demonstrates how one would go about creating a theme for gatsby)
+
+REALLY, we need to do the following: just cop a template. 
