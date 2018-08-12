@@ -15,3 +15,5 @@ https://medium.freecodecamp.org/how-to-build-a-react-and-gatsby-powered-blog-in-
 (and demonstrates how one would go about creating a theme for gatsby)
 
 REALLY, we need to do the following: just cop a template. 
+
+it's less technical and more artistic. Perhaps the most technical approach I would touch it with is an "information presentation" objective. 
